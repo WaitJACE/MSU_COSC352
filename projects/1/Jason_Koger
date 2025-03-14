@@ -1,0 +1,4 @@
+Projects/1/<firstname>_<lastname>/
+│── HelloWorld.xtend
+│── HelloWorld.jar (compiled output)
+│── Dockerfile
